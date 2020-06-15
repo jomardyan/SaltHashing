@@ -14,6 +14,7 @@ namespace tstenv1
 
         public static void FN()
         {
+            //AD
             byte[] data = { 1, 2, 3, 0, 5, 6 };
             Guid guid = Guid.NewGuid();
             byte[] guidInBayts = Encoding.UTF8.GetBytes(guid.ToString());
