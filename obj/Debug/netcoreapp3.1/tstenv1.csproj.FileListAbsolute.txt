@@ -1,0 +1,13 @@
+C:\Users\hayk.jomardyan.ICREDITPL\Documents\tstenv1\bin\Debug\netcoreapp3.1\tstenv1.exe
+C:\Users\hayk.jomardyan.ICREDITPL\Documents\tstenv1\bin\Debug\netcoreapp3.1\tstenv1.deps.json
+C:\Users\hayk.jomardyan.ICREDITPL\Documents\tstenv1\bin\Debug\netcoreapp3.1\tstenv1.runtimeconfig.json
+C:\Users\hayk.jomardyan.ICREDITPL\Documents\tstenv1\bin\Debug\netcoreapp3.1\tstenv1.runtimeconfig.dev.json
+C:\Users\hayk.jomardyan.ICREDITPL\Documents\tstenv1\bin\Debug\netcoreapp3.1\tstenv1.dll
+C:\Users\hayk.jomardyan.ICREDITPL\Documents\tstenv1\bin\Debug\netcoreapp3.1\tstenv1.pdb
+C:\Users\hayk.jomardyan.ICREDITPL\Documents\tstenv1\obj\Debug\netcoreapp3.1\tstenv1.csprojAssemblyReference.cache
+C:\Users\hayk.jomardyan.ICREDITPL\Documents\tstenv1\obj\Debug\netcoreapp3.1\tstenv1.AssemblyInfoInputs.cache
+C:\Users\hayk.jomardyan.ICREDITPL\Documents\tstenv1\obj\Debug\netcoreapp3.1\tstenv1.AssemblyInfo.cs
+C:\Users\hayk.jomardyan.ICREDITPL\Documents\tstenv1\obj\Debug\netcoreapp3.1\tstenv1.csproj.CoreCompileInputs.cache
+C:\Users\hayk.jomardyan.ICREDITPL\Documents\tstenv1\obj\Debug\netcoreapp3.1\tstenv1.dll
+C:\Users\hayk.jomardyan.ICREDITPL\Documents\tstenv1\obj\Debug\netcoreapp3.1\tstenv1.pdb
+C:\Users\hayk.jomardyan.ICREDITPL\Documents\tstenv1\obj\Debug\netcoreapp3.1\tstenv1.genruntimeconfig.cache
